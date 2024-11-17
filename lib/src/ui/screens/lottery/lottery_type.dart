@@ -1,0 +1,1 @@
+enum LotteryType {max3d, max3dpro, max3dplus, sixfivefive, sixfourfive}
